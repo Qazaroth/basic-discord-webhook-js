@@ -1,0 +1,14 @@
+{
+  "name": "ez_webhook_discord",
+  "version": "1.0.0",
+  "description": "Very basic discord webhook in npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Qazaroth",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
